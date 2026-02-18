@@ -1,2 +1,2 @@
 # Spotify-Frontened
-This is a spotify basic frontend clone
+This is a spotify basic frontend clone.
